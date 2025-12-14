@@ -6,7 +6,9 @@ I started with a list of every possible JSON file on github that appeared to hav
 
 The details of each loadout is the [Expansion Loadout Analysis](https://github.com/goonwolf666/BigCollectionOfExpansionLoadouts/blob/main/DayZ_Expansion_Loadout_Analysis.xlsx) report, along with links to the original author's repository and files. My copy of each loadout, named per author and original filename, is in the [ExpansionLoadout sub-folder](https://github.com/goonwolf666/BigCollectionOfExpansionLoadouts/tree/main/ExpansionLoadouts).
 
-The table below contains a high-level summary of the findings. Note that many of the "unknown types" that I picked up appear to be typos, [hidden vanilla types](https://dayz.fandom.com/wiki/4rd_CR-550_Mag) that I didn't account for, or just cool stuff from [other mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2663169692) that you need to have installed for the loadout to work properly =)
+The table below contains a high-level summary of the findings. Note that many of the "unknown types" that I picked up appear to be typos, [hidden vanilla types](https://dayz.fandom.com/wiki/4rd_CR-550_Mag) that I didn't account for, or just cool stuff from [other mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2663169692) that you need to have installed for the loadout to work properly.
+
+Note that I didn't include [my own collection of custom loadouts](https://github.com/goonwolf666/NamalskSnippets/tree/main/Loadouts), which I know definitely include Expansion Mod and Namalsk DZN item types.
 
 | Loadout Author      | Original Loadout Name                    | Derived Loadout Name                                    | Distinct Loadout Matches | Total Types | Vanilla Types | Expansion Types | Namalsk Types | DeerIsle Types | Unknown Types |  | 
 |---------------------|------------------------------------------|---------------------------------------------------------|-----------------------|-------------|---------------|-----------------|---------------|----------------|---------------|--| 
