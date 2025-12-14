@@ -1,8 +1,10 @@
-# BigCollectionOfExpansionLoadouts
-A big collection and analysis of loadout files for use with the DayZ Expansion mod
+# Big Collection and Analysis of DayZ Expansion Loadouts
 
+This is my collection and analysis of as many loadout files for use with the [DayZ Expansion mod](https://steamcommunity.com/workshop/filedetails/?id=2116151222) AI system.
 
-test
+I started with a list of every possible JSON file on github that appeared to have a valid loadout format, which came to about 900 files. I then downloaded all of those and checked the size and hash to eliminate common duplicates, leaving just over 500 files. I then parsed those to determine the contents of each loadout slot, and test if those types were from the vanilla DayZ game, the DayZ Expansion types, or Namalsk or DeerIsle custom maps. 
+
+The details of each loadout is the [Expansion Loadout Analysis](https://github.com/goonwolf666/BigCollectionOfExpansionLoadouts/blob/main/DayZ_Expansion_Loadout_Analysis.xlsx) report, along with links to the original author's repository and files. My copy There is a high-level summary of is in the table below.
 
 text
 
