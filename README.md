@@ -8,7 +8,7 @@ The details of each loadout is the [Expansion Loadout Analysis](https://github.c
 
 The table below contains a high-level summary of the findings. Note that many of the "unknown types" that I picked up appear to be typos, [hidden vanilla types](https://dayz.fandom.com/wiki/4rd_CR-550_Mag) that I didn't account for, or just cool stuff from [other mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2663169692) that you need to have installed for the loadout to work properly =)
 
-| Loadout Author      | Original Loadout Name                    | Derived Loadout Name                                    | Distinct Type Matches | Total Types | Vanilla Types | Expansion Types | Namalsk Types | DeerIsle Types | Unknown Types |  | 
+| Loadout Author      | Original Loadout Name                    | Derived Loadout Name                                    | Distinct Loadout Matches | Total Types | Vanilla Types | Expansion Types | Namalsk Types | DeerIsle Types | Unknown Types |  | 
 |---------------------|------------------------------------------|---------------------------------------------------------|-----------------------|-------------|---------------|-----------------|---------------|----------------|---------------|--| 
 | DayZ Expansion Team | BanditLoadout.json                       | Expansion_BanditLoadout.json                            | Multiple              | 164         | 163           | 0               | 0             | 0              | 1             |  | 
 | DayZ Expansion Team | EastLoadout.json                         | Expansion_EastLoadout.json                              | Multiple              | 73          | 73            | 0               | 0             | 0              | 0             |  | 
